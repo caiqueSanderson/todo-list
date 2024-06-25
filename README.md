@@ -1,2 +1,2 @@
-# todo-list
-Irei desenvolver um To Do List para retomar meus estudos na área de Front-end. Tentando criar um site que seja efetivo e eficiente, porém não deixando a parte estética de lado
+# TO DO LIST
+I will develop a To Do List to resume my studies in the Front-end area. Trying to create a website that is effective and efficient, but not leaving the aesthetic part aside.
